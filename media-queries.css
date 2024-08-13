@@ -1,0 +1,33 @@
+@media screen and (max-width: 743px) {
+  body {
+    background-color: #ffffff;
+    padding: 20px;
+    gap: 10px;
+  }
+}
+
+@media screen and (min-width: 744px) and (max-width: 1133px) {
+  body {
+    background-color: #DCDCDC;
+  }
+
+  img {
+    width: 240px;
+    height: 144px;
+  }
+
+  h1 {
+    font-size: 32px;
+    color: #2c3e50;
+    white-space: nowrap;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  p {
+    font-size: 16px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    white-space: nowrap;
+  }
+}
